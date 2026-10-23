@@ -37,7 +37,7 @@ I build secure APIs, scalable backend services, and real-time applications.
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React-DC382D?style=flat-square&logo=redis&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/REST%20APIs-4051B5?style=flat-square" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/OAuth-2C3E50?style=flat-square" alt="OAuth"/>
